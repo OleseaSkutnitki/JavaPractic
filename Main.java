@@ -1,5 +1,5 @@
 package edu.tekwill.java;
-
+// Am scris un comentariu
 public class Main {
     public static void main (String [] args){
         /*Clasa1 ob=new Clasa1();
