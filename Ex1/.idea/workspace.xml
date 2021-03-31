@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616439822810</updated>
       <workItem from="1616439833746" duration="3136000" />
-      <workItem from="1616777151541" duration="734000" />
+      <workItem from="1616777151541" duration="5069000" />
     </task>
     <servers />
   </component>
@@ -85,5 +85,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ex1$Main.ic" NAME="Main Coverage Results" MODIFIED="1617035138996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.tekwill.java.*</FILTER>
+    </SUITE>
   </component>
 </project>
